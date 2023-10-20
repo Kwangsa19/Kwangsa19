@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kwangsa19
+- 👋 Hi, I’m @Kwangsa19.
 - 👀 I’m interested in open-source apps and its development.
-- 🌱 I’m currently learning Python and information system.
-- 💞️ I’m looking to collaborate on software development and website development
+- 🌱 I’m currently learning Python, JavaScript, Data Science, Cycber Security and Machine Learning.
+- 💞️ I’m looking to collaborate on software development and website development.
 - 📫 How to reach me ...[Find me here](https://kwangsa19.github.io/).
 
 <!---
