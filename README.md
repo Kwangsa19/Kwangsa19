@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kwangsa19.
 - 👀 I’m interested in open-source apps and its development.
-- 🌱 I’m currently learning Python, JavaScript, Data Science, CycberSecurity and Machine Learning.
+- 🌱 I’m currently learning Cybersecurity, Python, JavaScript, Data Science, and Machine Learning.
 - 💞️ I’m seeking a job in IT or cybersecurity fields. 
 - 📫 How to reach me ...[Find me here](https://kwangsa19.github.io/).
 
