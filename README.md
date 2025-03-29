@@ -12,5 +12,5 @@
 * CompTIA Security+
 * Linux Foundation Certified Administrator
   
-* * # 📫 Find me [here](https://kwangsa19.github.io/).  
+# 📫 Find me [here](https://kwangsa19.github.io/).  
 
