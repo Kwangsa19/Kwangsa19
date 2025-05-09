@@ -7,6 +7,7 @@
 ### 🎯 Targeting:
 * AZ-900
 * AZ-305
+* Google Cloud Cybersecurity Certificate
 * CompTIA A+
 * CompTIA Network+
 * CompTIA Security+
