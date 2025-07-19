@@ -4,9 +4,12 @@
 ### 🌱 I’m currently learning Cybersecurity, Linux, Python, Automation, Data Science, and AI.
 ### 💞️ I created cybersecurity portfolio. Please find it [here](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio).
 ### ✅ Passed Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
+### ✅ Passed Microsoft Certified: Azure Fundamentals (AZ-900).
+### ✅ Passed ESET Cloud Certified (ESET Protect 6).
+
 ### 🎯 Targeting:
-* AZ-900
 * AZ-305
+* CCNA
 * Google Cloud Cybersecurity Certificate
 * CompTIA A+
 * CompTIA Network+
