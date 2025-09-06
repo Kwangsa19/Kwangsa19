@@ -5,7 +5,7 @@
 ### 💞️ I created cybersecurity portfolio. Please find it [here](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio).
 ### ✅ Passed Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900).
 ### ✅ Passed Microsoft Certified: Azure Fundamentals (AZ-900).
-### ✅ Passed SET Managed Cloud Security Professional Certified (ESET Protect 6).
+### ✅ Passed ESET Managed Cloud Security Professional Certified (ESET Protect 6).
 
 ### 🎯 Targeting:
 * AZ-305
